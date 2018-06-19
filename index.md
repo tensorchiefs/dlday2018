@@ -6,7 +6,7 @@ title: DL-Day 2018
 
 ## Deep Learning Day 2018 
 
-We are pleased to announce the third Deep Learning Day on Friday the 14th of September 2018. The event will be hosted in Winterthur and will be organised by the ZHAW Winterthur and the HTWG Konstanz.
+We are pleased to announce the third **Deep Learning Day on Friday the 14th of September 2018.** The event will be hosted in Winterthur and will be organised by the ZHAW Winterthur and the HTWG Konstanz.
 
 As for the previous events, we would like to have an **active participation** and encourage you to send in an abstract for a poster and/or a talk by latest 26th of August. Note that the **number of participants will be limited to 50** persons (first come first serve) and attendees with active presentation will be given preference.  
 
