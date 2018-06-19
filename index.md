@@ -41,7 +41,7 @@ Please submit an abstract as described in [abstract submission](abstract)
 60 CHF or 30 CHF for students with student card, these will cover an apero. Lunch is possible e.g. in the cafeteria on your own expense. 
 
 ### Registration
-TBD
+Will open on Friday 22nd July.
 
 ### Program: 
 
