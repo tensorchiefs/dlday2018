@@ -6,21 +6,21 @@ title: DL-Day 2018
 
 ## Deep Learning Day [preliminary, stay tuned!!]
 
-We are pleased to announce the third run of the Deep Learning Day on Friday the 14th of September 2018. The event will be hosted in Winterthur and will be organised by the ZHAW Winterthur and the HTWG Konstanz.
+We are pleased to announce the third Deep Learning Day on Friday the 14th of September 2018. The event will be hosted in Winterthur and will be organised by the ZHAW Winterthur and the HTWG Konstanz.
 
-As for the previous events, we would like to have an **active participation** and encourage you to send in an abstract for a poster or a talk by latest 26th of August. Note that the **number of participants will be limited to 60** persons (first come first serve) and attendees with active presentation will be given preference.  
+As for the previous events, we would like to have an **active participation** and encourage you to send in an abstract for a poster and/or a talk by latest 26th of August. Note that the **number of participants will be limited to 50** persons (first come first serve) and attendees with active presentation will be given preference.  
 
 ### Focus
 
-The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. We therefore plan a poster session during a extended apero. As in the last two events, we will arrange an extended hands-on tutorial session on the latest developments in a deep learning framework.
-We are happy to announce that Thomas Fischbacher from google will give a workshop on the latest developments in Tensorflow. 
+The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. We therefore plan a poster session during an extended apero. As in the last two events, we will arrange an hands-on tutorial session on the latest developments in a deep learning framework.
+We are happy to announce that this time Thomas Fischbacher from Google will give a workshop on the latest developments in Tensorflow. 
 
 ### Previous event
 * [2017](https://tensorchiefs.github.io/dlday2017/)
 * [2016](https://sites.google.com/site/sdsdlday2016/) 
 
 #### Contributions
-We are looking for poster / talk contributions on all areas of deep learning. This time we want to set a focus on *probabilistic* aspects of deep learning such as probabilistic modeling or assigning uncertainties to predictions and especially welcome contributions from these fields. However, we welcome all deep learning related contributions.   
+We are looking for poster/talk contributions on all areas of deep learning. This time we want to set a focus on *probabilistic* aspects of deep learning such as assigning uncertainties to predictions. Contributions from these fields are especially welcome, however we welcome all deep learning related contributions.   
 
 Please submit an abstract as described in [abstract submission](abstract)
 
@@ -28,9 +28,9 @@ Please submit an abstract as described in [abstract submission](abstract)
 ### Important Dates
 * Dates:  
   * Date of the workshop 14. September 2018.  
-  * 26th of August deadline for abstracts (on talks, Posters submissions might be extended).  
+  * 26th of August deadline for abstracts (on talks, posters submissions might be extended).  
   * 31th of August notification of acceptance for a talk.  
-  * 01st of September opening of registration (cost 60 CHF, 30 CHF for students with student card)  
+  *  1st of September opening of registration (cost 60 CHF, 30 CHF for students with student card)  
 
 * Location: ZHAW Winterthur 
 
@@ -51,9 +51,9 @@ Time | Presenter | Topic
 9:20 - 9:30  | Oliver, Beate and Elvis | Welcome 
 9:30 - 10:30  | TBA | Talks
 10:30 - 10:45 | Coffee Break | Coffee Break
-10:45 - 12:15 | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract]
+10:45 - 12:15 | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract](tutorial1)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Cafetaria ZHAW)
-13:30 - 15:00 | Thomas Fischbacher (Google) | Tutorial 2: TensorFlow Beyond Basics [abstract]
+13:30 - 15:00 | Thomas Fischbacher (Google) | Tutorial 2: TensorFlow Beyond Basics [abstract](tutorial2)
 15:00 - 15:15 | Coffee Break | Coffee Break
 15:15 - 15:45  | TBA | Talks
 15:45 - 16:30 | Various | Spotlight Talks and closing
