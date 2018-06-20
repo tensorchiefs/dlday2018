@@ -10,7 +10,7 @@ We are pleased to announce the third **Deep Learning Day on Friday the 14th of S
 
 The event will take place at **ZHAW School of Engineering in Winterthur** (for details see below) and is organised by the ZHAW Winterthur and the HTWG Konstanz.
 
-As for the previous events, we would like to have an **active participation** and encourage you to **send in an abstract for a poster and/or a talk** by latest 26th of August. Note that the **number of participants will be limited to 50** persons (first come first serve) and attendees with active presentation will be given preference.  
+As for the previous events, we would like to have an **active participation** and encourage you to **send in an abstract for a poster and/or a talk** by latest 26th of August. Note that the number of participants will be limited to 50 persons (first come first serve) and attendees with active presentation will be given preference.  
 
 ### Focus
 
