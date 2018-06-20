@@ -32,7 +32,7 @@ Please submit an abstract as described in [abstract submission](abstract)
   * 31th of August notification of acceptance for a talk.  
   *  1st of July opening of registration (cost 60 CHF, 30 CHF for students with student card)  
 
-* Location: ZHAW Winterthur [ZHAW School of Engineering in Winterthur (Switzerland), Technikumstrasse 9 , Main Building, room TH 363](https://www.google.com/maps/place/47%C2%B029'50.6%22N+8%C2%B043'45.6%22E/@47.497385,8.7282257,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d47.4973855!4d8.7293202?hl=en-US)
+* Location: [ZHAW School of Engineering in Winterthur (Switzerland), Technikumstrasse 9 , Main Building, room TH 363](https://www.google.com/maps/place/47%C2%B029'50.6%22N+8%C2%B043'45.6%22E/@47.497385,8.7282257,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d47.4973855!4d8.7293202?hl=en-US)
 
 
 ### Conference costs
@@ -57,7 +57,7 @@ Time | Presenter | Topic
 15:45 - 16:30 | Various | Spotlight Talks and closing
 16:30 -  | You | [Posters]
 
-### Previous event
+### Previous events
 * [2017](https://tensorchiefs.github.io/dlday2017/)
 * [2016](https://sites.google.com/site/sdsdlday2016/) 
 
