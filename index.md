@@ -10,13 +10,13 @@ We are pleased to announce the third **Deep Learning Day on Friday the 14th of S
 
 The event will take place at **ZHAW School of Engineering in Winterthur** (for details see below) and is organised by the ZHAW Winterthur and the HTWG Konstanz.
 
-As for the previous events, we would like to have an **active participation** and encourage you to send in an abstract for a poster and/or a talk by latest 26th of August. Note that the **number of participants will be limited to 50** persons (first come first serve) and attendees with active presentation will be given preference.  
+As for the previous events, we would like to have an **active participation** and encourage you to **send in an abstract for a poster and/or a talk** by latest 26th of August. Note that the **number of participants will be limited to 50** persons (first come first serve) and attendees with active presentation will be given preference.  
 
 ### Focus
 
 The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. There will be sessions with contributed talks and alsa a poster session during an extended apero. 
 
-We are happy to announce that Thomas Fischbacher from Google will give a workshop on the latest developments in Tensorflow. In will include a hands-on part - so please bring your laptops with you.
+We are happy to announce that Thomas Fischbacher from Google will give a tutorial on the latest developments in Tensorflow which will include a hands-on part - so please bring your laptops with you.
 
 
 #### Contributions
@@ -32,9 +32,7 @@ Please submit an abstract as described in [abstract submission](abstract)
   * 31th of August notification of acceptance for a talk.  
   * 22st of September opening of registration (cost 60 CHF, 30 CHF for students with student card)  
 
-* Location: ZHAW Winterthur 
-
-[ZHAW School of Engineering in Winterthur (Switzerland), Technikumstrasse 9 , Main Building, room TH 363](https://www.google.com/maps/place/47%C2%B029'50.6%22N+8%C2%B043'45.6%22E/@47.497385,8.7282257,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d47.4973855!4d8.7293202?hl=en-US)
+* Location: ZHAW Winterthur [ZHAW School of Engineering in Winterthur (Switzerland), Technikumstrasse 9 , Main Building, room TH 363](https://www.google.com/maps/place/47%C2%B029'50.6%22N+8%C2%B043'45.6%22E/@47.497385,8.7282257,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d47.4973855!4d8.7293202?hl=en-US)
 
 
 ### Conference costs
