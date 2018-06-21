@@ -30,7 +30,8 @@ Please submit an abstract as described in [abstract submission](abstract)
   * Date of the workshop 14. September 2018.  
   * 26th of August deadline for abstracts (on talks, posters submissions might be extended).  
   * 31th of August notification of acceptance for a talk.  
-  *  1st of July opening of registration (cost 60 CHF, 30 CHF for students with student card)  
+  *  1st of July opening of registration for presenters (talk and/or poster)  
+  * 14th of July opening of registration for all participants
 
 * Location: [ZHAW School of Engineering in Winterthur (Switzerland), Technikumstrasse 9 , Main Building, room TH 363](https://www.google.com/maps/place/47%C2%B029'50.6%22N+8%C2%B043'45.6%22E/@47.497385,8.7282257,18z/data=!3m1!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d47.4973855!4d8.7293202?hl=en-US)
 
@@ -39,7 +40,7 @@ Please submit an abstract as described in [abstract submission](abstract)
 60 CHF or 30 CHF for students with student card, these will cover an apero. Lunch is possible e.g. in the cafeteria on your own expense. 
 
 ### Registration
-Will open on Monday 1st of July.
+Will open on Monday 1st of July for presenters (talk and/or poster) and 14th of July for all participants.
 
 ### Program: 
 
