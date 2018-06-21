@@ -44,11 +44,11 @@ Will open on Monday 1st of July for presenters (talk and/or poster) and 14th of 
 
 ### Program: 
 
-Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic 
+Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---|---|---
-9:00 - 9:20  | --        | Arriving
-9:20 - 9:30  | Oliver, Beate and Elvis | Welcome 
-9:30 - 10:30  | TBA | Talks
+09:00 - 09:20  | --        | Arriving
+09:20 - 09:30  | Oliver, Beate and Elvis | Welcome 
+09:30 - 10:30  | TBA | Talks
 10:30 - 10:45 | Coffee Break | Coffee Break
 10:45 - 12:15 | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract](tutorial1)
 12:15 - 13:30 | -- | Lunch at your own expense (e.g. Cafetaria ZHAW)
