@@ -45,7 +45,7 @@ Will open on Monday 1st of July for presenters (talk and/or poster) and 14th of 
 ### Program: 
 
 Time | Presenter | Topic 
------|-----------|----------------------
+-------|-------------------|----------------------
 9:00 - 9:20  | --        | Arriving
 9:20 - 9:30  | Oliver, Beate and Elvis | Welcome 
 9:30 - 10:30  | TBA | Talks
@@ -56,7 +56,7 @@ Time | Presenter | Topic
 15:00 - 15:15 | Coffee Break | Coffee Break
 15:15 - 15:45  | TBA | Talks
 15:45 - 16:30 | Various | Spotlight Talks and closing
-16:30 -  | You | [Posters]
+16:30 -  | You | Posters and Apero
 
 ### Previous events
 * [2017](https://tensorchiefs.github.io/dlday2017/)
