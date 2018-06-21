@@ -45,7 +45,7 @@ Will open on Monday 1st of July for presenters (talk and/or poster) and 14th of 
 ### Program: 
 
 Time | Presenter | Topic 
--------|-------------------|----------------------
+-------|---------------------------------|----------------------
 9:00 - 9:20  | --        | Arriving
 9:20 - 9:30  | Oliver, Beate and Elvis | Welcome 
 9:30 - 10:30  | TBA | Talks
