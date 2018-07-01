@@ -41,7 +41,7 @@ Please submit an abstract as described in [abstract submission](abstract)
 
 ### Registration
 Will open on the 1st of July for presenters (talk and/or poster) and on the 14th of July for all participants.  
-[Register](https://en.xing-events.com/IZOSANA)
+[Register here](https://en.xing-events.com/IZOSANA)
 
 ### Program: 
 
