@@ -40,7 +40,7 @@ Please submit an abstract as described in [abstract submission](abstract)
 60 CHF or 30 CHF for students with student card, these will cover an apero. Lunch is possible e.g. in the cafeteria on your own expense. 
 
 ### Registration
-Will open on Monday 1st of July for presenters (talk and/or poster) and 14th of July for all participants.  
+Will open on the 1st of July for presenters (talk and/or poster) and on the 14th of July for all participants.  
 [Register](https://en.xing-events.com/IZOSANA)
 
 ### Program: 
