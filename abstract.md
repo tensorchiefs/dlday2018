@@ -5,7 +5,7 @@ title: Abstract Submission
 ---
 
 ## Abstract for the dlday2018
-Please submit your abstract to **all three** beate.sick@zhaw.ch, elvis.murina@zhaw.ch and oliver.duerr@htwg-konstanz.de with the name dlday2018 in the subject.
+Please submit your abstract to **all three** beate.sick@zhaw.ch, elvis.murina@zhaw.ch and oliver.duerr@htwg-konstanz.de with the name **dlday2018 in the subject**. Please note that the presented work should have a focus on describing the used deep learning approach.
 
 Please use the following form:
 
