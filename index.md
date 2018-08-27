@@ -28,7 +28,7 @@ Please submit an abstract as described in [abstract submission](abstract)
 ### Important Dates
 * Dates:  
   * Date of the workshop 14. September 2018.  
-  * 26th of August deadline for abstracts (on talks, posters submissions might be extended).  
+  * <del>26th of August</del> extended to 30th August deadline for abstracts (on talks, posters submissions).  
   * 31th of August notification of acceptance for a talk.  
   *  1st of July opening of registration for presenters (talk and/or poster)  
   * 14th of July opening of registration for all participants
