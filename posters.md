@@ -54,7 +54,7 @@ maximize kurtosis (non-Gaussianity) in deeper layers which further
 relates the training of neural networks to the objective used in ICA.
 
 ## Arthritis Net - Automated bone erosion scoring for rheumatoid arthritis with deep convolutional neural networks
-Janick Rohrbach (ZHAW)
+Janick Rohrbach, Fabian Reinhard, Tobias Reinhard, Beate Sick, Oliver Dürr (ZHAW,Seantis)
 
 Rheumatoid arthritis can cause irreversible damage to the joints. The severity of those bone erosions is scored by using x-ray images. This is usually done by a trained rheumatologist or radiologist and takes several minutes per patient. 
 This poster shows an automated method to score the joints in x-ray images with deep convolutional neural networks. We take a classification and a regression approach on x-ray images of joints from the left hand. In the classification task, we predict the Ratingen-score on a discrete integer scale from 0 to 5. 
