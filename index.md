@@ -47,19 +47,18 @@ Will open on the 1st of July for presenters (talk and/or poster) and on the 14th
 * [Poster Abstracts](posters.md) and [information for presenters](poster_info.md)
 * Talks comming soon
 
-Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Presenter &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Topic &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ---|---|---
 09:00 - 09:20 <br><br/> | --        | Arriving
 09:20 - 09:30 <br><br/> | Oliver, Beate and Elvis | Welcome 
-09:30 - 10:00 <br><br/> | Christina Rossi | Talk: TBA
+09:30 - 10:00 <br><br/> | Christina Rossi | Talk: Automatic classfication of mammograhic breast density
 10:00 - 10:30 <br><br/> | Lukas Tuggener | Talk: TBA
 10:30 - 10:45 <br><br/> | Coffee Break | Coffee Break
 10:45 - 12:15 <br><br/> | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract](tutorial1)
 12:15 - 13:30 <br><br/> | -- | Lunch at your own expense (e.g. Cafetaria ZHAW)
 13:30 - 15:00 <br><br/> | Thomas Fischbacher (Google) | Tutorial 2: TensorFlow Beyond Basics [abstract](tutorial2)
 15:00 - 15:15 <br><br/> | Coffee Break | Coffee Break
-15:15 - 15:45 <br><br/>  | Mohammadreza Amirian | Talk: Trace and Detect Adversarial Attacks on CNNs
-using Feature Response Maps
+15:15 - 15:45 <br><br/>  | Mohammadreza Amirian | Talk: Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps
 15:45 - 16:30 <br><br/> | Various | Spotlight Talks and closing
 16:30 -  <br><br/> | You | Posters and Apero
 
