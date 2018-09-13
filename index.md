@@ -6,6 +6,11 @@ title: DL-Day 2018
 
 ## Deep Learning Day 2018 
 
+### Lastest news
+* [Material for the tutorials](tutorial/)
+* The easiest way to take part in the tutorials is to use google colab (you need to have a google account for this)
+* Alternatively you might install the necessery tools as descriped in [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/)
+
 We are pleased to announce the third **Deep Learning Day on Friday the 14th of September 2018.** 
 
 The event will take place at **ZHAW School of Engineering in Winterthur** (for details see below) and is organised by the ZHAW Winterthur and the HTWG Konstanz.
