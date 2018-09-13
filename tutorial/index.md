@@ -8,7 +8,7 @@ title: tutorial
 
 The tutorials are presented by Thomas Fischbacher.
 
-The following files 
+The following files are provided
 
 * [tf.eager() background and history](tf-eager-tutorial.md)
 * [tf.einsum() Einstein summation convention in tf and numpy](einsum.md)
