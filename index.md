@@ -7,7 +7,9 @@ title: DL-Day 2018
 ## Deep Learning Day 2018 
 
 ### Lastest news
-#### [Material for the tutorials](tutorial/)
+
+#### Tutorial
+* [Material for the tutorials](tutorial/)
 * The easiest way to take part in the tutorials is to use google colab (you need to have a google account for this)
 * Alternatively you might install the necessery tools as descriped in [https://tensorchiefs.github.io/dl_course_2018/](https://tensorchiefs.github.io/dl_course_2018/)
 
