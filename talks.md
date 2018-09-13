@@ -7,7 +7,7 @@ Tested against expert readers, the dCNN provided accurate classification of brea
 
 
 
-## Automatic classfication of mammograhic breast density
+## Trace and detect adversarial attacks on CNNs using feature response maps
 Mohammadreza Amirian, Friedhelm Schwenker, Thilo Stadelmann (ZHAW, University Ulm)
 
 The existence of adversarial attacks on convolutional neural
@@ -28,7 +28,7 @@ on large-scale models trained on ImageNet.
 ## Optical music recognition using deep watershed detection
 Lukas Tuggener, Ismail Elezi, Jurgen Schmidhuber, Thilo Stadelmann (ZHAW, University Venice, IDSIA)
 
-In this paper, we introduce a novel object detection method, based on synthetic energy maps and the watershed transform, 
+In this talk, we introduce a novel object detection method, based on synthetic energy maps and the watershed transform, 
 called Deep Watershed Detector (DWD). Our method is specifically tailored to deal with high resolution images that contain 
 a large number of very small objects. Therefore it is well suited to process full pages of written music. We present 
 state-of-the-art detection results of common music symbols and show DWD's ability to work with synthetic scores equally 
