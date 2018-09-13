@@ -10,8 +10,8 @@ The tutorials are presented by Thomas Fischbacher.
 
 The following files are provided
 
-* [tf.eager() background and history](tf-eager-tutorial.md) | [pdf](tf-eager-tutorial.pdf)
-* [tf.einsum() Einstein summation convention in tf and numpy](einsum.md) | [pdf](einsum.pdf)
+* [tf.eager() background and history](tf-eager-tutorial.md)  [pdf](tf-eager-tutorial.pdf)
+* [tf.einsum() Einstein summation convention in tf and numpy](einsum.md)  [pdf](einsum.pdf)
 
 ### The notebooks
 * [TfEagerDemo](TfEagerDemo.ipynb) to open directly in [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/TfEagerDemo.ipynb)
