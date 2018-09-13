@@ -16,5 +16,5 @@ The following files are provided
 ### The notebooks
 * [TfEagerDemo](TfEagerDemo.ipynb) to open directly in [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/TfEagerDemo.ipynb)
 
-* [Alternative notebook to introduce Einstein Summation](Einstein_Alternative_Version.ipynb) to open directly in [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/Einstein_Alternative_Version.ipynb) proved by tensorchiefs $$F^{\mu \nu}$$
+* [Alternative notebook to introduce Einstein Summation](Einstein_Alternative_Version.ipynb) to open directly in [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/Einstein_Alternative_Version.ipynb) provided by tensorchiefs $F^{\mu \nu}$
 
