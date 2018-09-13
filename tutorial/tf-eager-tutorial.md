@@ -1,4 +1,8 @@
-
+---
+layout: default
+mathjax: true
+title: TensorFlow Eager Mode
+---
 # TensorFlow Eager Mode
 
 ## Background and History
