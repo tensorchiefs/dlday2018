@@ -9,7 +9,7 @@ title: DL-Day 2018
 ### Lastest news
 
 #### Tutorial
-* Bring you laptop with you
+* Bring your laptop with you
 * For internet access (use WLAN: `guest-ZHAW`) you will need a mobile phone to recieve a text-message with the login code
 * [Material for the tutorials](tutorial/)
 * The easiest way to take part in the tutorials is to use google colab (you need to have a google account for this)
