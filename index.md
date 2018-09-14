@@ -60,7 +60,7 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 ---|---|---
 09:00 - 09:20 <br><br/> | --        | Arriving
 09:20 - 09:30 <br><br/> | Oliver, Beate and Elvis | Welcome 
-09:30 - 10:00 <br><br/> | Christina Rossi | Talk: Automatic classfication of mammograhic breast density [abstract](talks)
+09:30 - 10:00 <br><br/> | Cristina Rossi | Talk: Automatic classfication of mammograhic breast density [abstract](talks)
 10:00 - 10:30 <br><br/> | Lukas Tuggener | Talk: Optical music recognition using deep watershed detection [abstract](talks)
 10:30 - 10:45 <br><br/> | Coffee Break | Coffee Break
 10:45 - 12:15 <br><br/> | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract](tutorial1)
