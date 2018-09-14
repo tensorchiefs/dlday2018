@@ -10,7 +10,7 @@ The tutorials are presented by Thomas Fischbacher.
 
 The following files are provided
 
-* [tf.eager() background and history](tf-eager-tutorial.md)  [pdf](tf-eager-tutorial.pdf) some [demo code](Code_from_Eager_Script.ipnb) [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/Code_from_Eager_Script.ipnb)
+* [tf.eager() background and history](tf-eager-tutorial.md)  [pdf](tf-eager-tutorial.pdf) some [demo code](Code_from_Eager_Script.ipynb) [colab](https://colab.research.google.com/github/tensorchiefs/dlday2018/blob/master/tutorial/Code_from_Eager_Script.ipynb)
 * [tf.einsum() Einstein summation convention in tf and numpy](einsum.md)  [pdf](einsum.pdf)
 
 ### The notebooks
