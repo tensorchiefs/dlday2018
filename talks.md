@@ -1,5 +1,5 @@
 ## Automatic classfication of mammograhic breast density
-Christina Rossi, Alexander Ciritsis, Ilaria De Martini, Matthias Eberhard, Magda Marcon, Anton S. Becker, Nicole Berger, Andreas Boss (USZ, UZH)
+Cristina Rossi, Alexander Ciritsis, Ilaria De Martini, Matthias Eberhard, Magda Marcon, Anton S. Becker, Nicole Berger, Andreas Boss (USZ, UZH)
 
 High breast density is a risk factor for breast cancer. In addition to its relevance for the assessment of individual breast cancer risk, mammographic density (MD) or breast density is an important parameter in the planning of systematic mammography screening programs. Patients with dense breasts may need additional imaging, such as tomosynthesis, ultrasound or breast MR, to increase the chances of cancer detection. However, the evaluation of MD is strongly reader dependent with low accuracy between readers. 
 The aim of this study was the development of a deep convolutional neural network (dCNN) for the automatic classification of breast density based on the mammographic appearance of the tissue according to the American College of Radiology Breast Imaging and Data System (ACR BI-RADS) Atlas.
