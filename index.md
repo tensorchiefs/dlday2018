@@ -23,7 +23,7 @@ As for the previous events, we would like to have an **active participation** an
 
 ### Focus
 
-The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. There will be sessions with contributed talks and alsa a poster session during an extended apero. 
+The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. There will be sessions with contributed talks and also a poster session during an extended apero. 
 
 We are happy to announce that Thomas Fischbacher from Google will give a tutorial on the latest developments in Tensorflow which will include a hands-on part - so please bring your laptops with you.
 
