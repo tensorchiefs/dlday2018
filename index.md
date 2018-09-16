@@ -6,8 +6,6 @@ title: DL-Day 2018
 
 ## Deep Learning Day 2018 
 
-### Lastest news
-
 We are pleased to announce the third **Deep Learning Day on Friday the 14th of September 2018.** 
 
 The event will take place at **ZHAW School of Engineering in Winterthur** (for details see below) and is organised by the ZHAW Winterthur and the HTWG Konstanz.
@@ -18,7 +16,7 @@ As for the previous events, we would like to have an **active participation** an
 
 The focus of the workshop is on sharing experience with other fellow deep learners and to connect with each other. There will be sessions with contributed talks and also a poster session during an extended apero. 
 
-We are happy to announce that Thomas Fischbacher from Google will give a tutorial on the latest developments in Tensorflow which will include a hands-on part - so please bring your laptops with you.
+We are happy to announce that Thomas Fischbacher from Google will give a tutorial on the latest developments in Tensorflow which will include a hands-on part - so please bring your laptops with you. See [tutorial](tutorial) for more information.
 
 
 #### Contributions
