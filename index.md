@@ -53,14 +53,14 @@ Time &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp
 ---|---|---
 09:00 - 09:20 <br><br/> | --        | Arriving
 09:20 - 09:30 <br><br/> | Oliver, Beate and Elvis | Welcome 
-09:30 - 10:00 <br><br/> | Cristina Rossi | Talk: Automatic classfication of mammograhic breast density [abstract](talks)
-10:00 - 10:30 <br><br/> | Lukas Tuggener | Talk: Optical music recognition using deep watershed detection [abstract](talks)
+09:30 - 10:00 <br><br/> | Cristina Rossi | Talk: Automatic classfication of mammograhic breast density [abstract](talks) [slides](/talks/Cristina_Rossi_final.pdf)
+10:00 - 10:30 <br><br/> | Lukas Tuggener | Talk: Optical music recognition using deep watershed detection [abstract](talks) [slides](/talks/DWD_DLday_2018_lukas.pdf)
 10:30 - 10:45 <br><br/> | Coffee Break | Coffee Break
 10:45 - 12:15 <br><br/> | Thomas Fischbacher (Google) | Tutorial 1: TensorFlow Eager Execution [abstract](tutorial1)
 12:15 - 13:30 <br><br/> | -- | Lunch at your own expense (e.g. Cafetaria ZHAW)
 13:30 - 15:00 <br><br/> | Thomas Fischbacher (Google) | Tutorial 2: TensorFlow Beyond Basics [abstract](tutorial2)
 15:00 - 15:15 <br><br/> | Coffee Break | Coffee Break
-15:15 - 15:45 <br><br/>  | Mohammadreza Amirian | Talk: Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps [abstract](talks)
+15:15 - 15:45 <br><br/>  | Mohammadreza Amirian | Talk: Trace and Detect Adversarial Attacks on CNNs using Feature Response Maps [abstract](talks) [slides](/talks/dl_day_mohammed.pdf)
 15:45 - 16:30 <br><br/> | Various | Spotlight Talks and closing
 16:30 -  <br><br/> | You | Posters and Apero
 
